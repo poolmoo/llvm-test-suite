@@ -12,7 +12,7 @@
  *
  */
 
-void *malloc(unsigned Size);
+void *malloc(size_t Size);
 
 typedef struct demand {
   double P;
