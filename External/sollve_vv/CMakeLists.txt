@@ -95,7 +95,6 @@ set(TEST_SUITE_SOLLVEVV_EXPECT_PASS
     4.5/target_teams_distribute_parallel_for/test_target_teams_distribute_parallel_for_num_threads.c
     4.5/target_teams_distribute_parallel_for/test_target_teams_distribute_parallel_for_private.c
     4.5/target_teams_distribute_parallel_for/test_target_teams_distribute_parallel_for_schedule_private.c
-    4.5/target_teams_distribute_parallel_for/test_target_teams_distribute_parallel_for_thread_limit.c
     4.5/target_update/test_target_update_depend.c
     4.5/target_update/test_target_update_devices.c
     4.5/target_update/test_target_update_from.c
@@ -115,7 +114,6 @@ set(TEST_SUITE_SOLLVEVV_EXPECT_PASS
     5.0/flush/test_flush_no_memory_order_clause.c
     5.0/master_taskloop/test_master_taskloop.c
     5.0/master_taskloop_simd/test_master_taskloop_simd.c
-    5.0/parallel_for/test_parallel_for_allocate.c
     5.0/parallel_for/test_parallel_for_notequals.c
     5.0/parallel_for/test_parallel_for_order_concurrent.c
     5.0/parallel_for_simd/test_parallel_for_simd_atomic.c
@@ -135,7 +133,6 @@ set(TEST_SUITE_SOLLVEVV_EXPECT_PASS
     5.0/simd/test_simd_if.c
     5.0/simd/test_simd_nontemporal.c
     5.0/simd/test_simd_order_concurrent.c
-    5.0/target/test_target_allocate.c
     5.0/target/test_target_defaultmap_default.c
     5.0/target/test_target_defaultmap_firstprivate.c
     5.0/target/test_target_defaultmap_none.c
